@@ -10,7 +10,7 @@ I am **Codeveno**, a passionate cybersecurity enthusiast specializing in **crypt
 - 💬 Ask me about **computer security, web development, Python, mobile app development, Java, and Linux**.
 - 📫 How to reach me: **samsono.odwori@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: ⚡ Fun fact: I once tried to brute-force my fridge’s lock… turns out it just needed a gentle pull. 🧑‍💻😂
+- ⚡ Fun fact: ⚡ Fun fact: I once tried to brute-force my fridge’s lock… turns out it just needed a gentle pull. 🧑‍💻
 
 ---
 
