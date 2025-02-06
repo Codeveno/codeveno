@@ -21,7 +21,7 @@ I am **Codeveno**, a passionate cybersecurity enthusiast specializing in **crypt
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeveno&show_icons=true&theme=radical&rank_icon=github)
 
 ### 💻 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_codeveno&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeveno&layout=compact&theme=radical)
 
 ### 👀 Profile Visitors:
 ![Visitor Count](https://komarev.com/ghpvc/?username=codeveno&color=blue)
