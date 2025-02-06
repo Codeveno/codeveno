@@ -8,9 +8,9 @@ I am **Codeveno**, a passionate cybersecurity enthusiast specializing in **crypt
 - 👯 I’m looking to collaborate on **system security projects**.
 - 🤔 I’m looking for help with **reverse engineering and advanced cryptography jagoons**.
 - 💬 Ask me about **computer security, web development, Python, mobile app development, Java, and Linux**.
-- 📫 How to reach me: **samsono.dowori@gmail.com**
+- 📫 How to reach me: **samsono.odwori@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can hack my way into a cup of coffee, but still forget my own passwords sometimes! ☕😆**
+- ⚡ Fun fact: ⚡ Fun fact: I once tried to brute-force my fridge’s lock… turns out it just needed a gentle pull. 🧑‍💻😂
 
 ---
 
