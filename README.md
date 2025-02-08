@@ -29,32 +29,51 @@ I am **Codeveno**, a passionate cybersecurity enthusiast specializing in **crypt
 
 ---
 
-## ⚡ Total Contributions:
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=codeveno&theme=radical)
-
----
-
 ## 👀 Profile Visitors:
 ![Visitor Count](https://komarev.com/ghpvc/?username=codeveno&color=blue)
 
 ---
 
-## 🚀 Extra Stats:
+## 🛠️ Technologies & Tools:
+
+### 🔹 **Cybersecurity Tools**  
 <p align="center">
-  <img src="https://img.shields.io/github/repo-count/codeveno?style=for-the-badge&label=Public%20Repos">
-  <img src="https://img.shields.io/github/stars/codeveno?style=for-the-badge&label=GitHub%20Stars">
-  <img src="https://img.shields.io/github/forks/codeveno?style=for-the-badge&label=GitHub%20Forks">
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burp-suite&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-039BE5?style=for-the-badge&logo=nmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Bettercap-ED1C24?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
----
+### 🔹 **Cryptography Tools**  
+<p align="center">
+  <img src="https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnupg&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white">
+  <img src="https://img.shields.io/badge/Hashcat-EE4C2C?style=for-the-badge&logo=hashcat&logoColor=white">
+  <img src="https://img.shields.io/badge/VeraCrypt-0078D7?style=for-the-badge&logo=veracrypt&logoColor=white">
+</p>
 
-## 🛠️ Technologies & Tools:
+### 🔹 **Databases**  
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+### 🔹 **Programming Languages**  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</p>
+
+### 🔹 **AI & Machine Learning**  
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
 
 ---
