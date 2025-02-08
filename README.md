@@ -19,7 +19,7 @@ I am **Codeveno**, I am an aspiring  **cryptographer**.
 
 ---
 
-### 🔥 GitHub Streak, Stats & Top Languages:
+### 🔥 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codeveno&theme=radical&hide_border=true" height="165">
