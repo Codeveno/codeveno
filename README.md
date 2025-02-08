@@ -19,18 +19,13 @@ I am **Codeveno**, a passionate cybersecurity enthusiast specializing in **crypt
 
 ---
 
-### 🔥 GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com?user=codeveno&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+### 🔥 GitHub Streak, Stats & Top Languages:
 
----
-
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeveno&show_icons=true&theme=radical&rank_icon=github)  
-
----
-
-### 💻 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeveno&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=codeveno&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeveno&show_icons=true&theme=radical&rank_icon=github" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeveno&layout=compact&theme=radical" height="165">
+</p>
 
 ---
 
@@ -45,18 +40,22 @@ I am **Codeveno**, a passionate cybersecurity enthusiast specializing in **crypt
 ---
 
 ## 🚀 Extra Stats:
-- 📌 **Public Repos:** ![GitHub public repos](https://img.shields.io/github/repo-count/codeveno?style=flat-square)  
-- 🌟 **Stars Received:** ![GitHub stars](https://img.shields.io/github/stars/codeveno?style=flat-square)  
-- 🍴 **Forks:** ![GitHub forks](https://img.shields.io/github/forks/codeveno?style=flat-square)  
+<p align="center">
+  <img src="https://img.shields.io/github/repo-count/codeveno?style=for-the-badge&label=Public%20Repos">
+  <img src="https://img.shields.io/github/stars/codeveno?style=for-the-badge&label=GitHub%20Stars">
+  <img src="https://img.shields.io/github/forks/codeveno?style=for-the-badge&label=GitHub%20Forks">
+</p>
 
 ---
 
 ## 🛠️ Technologies & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+</p>
 
 ---
 
