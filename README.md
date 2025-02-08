@@ -34,24 +34,24 @@ I am **Codeveno**, a passionate cybersecurity enthusiast specializing in **crypt
 
 ---
 
-### ⚡ Total Contributions:
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=codeveno&theme=radical)  
+## ⚡ Total Contributions:
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=codeveno&theme=radical)
 
 ---
 
-### 👀 Profile Visitors:
-![Visitor Count](https://komarev.com/ghpvc/?username=codeveno&color=blue)  
+## 👀 Profile Visitors:
+![Visitor Count](https://komarev.com/ghpvc/?username=codeveno&color=blue)
 
 ---
 
-### 🚀 Extra Stats:
+## 🚀 Extra Stats:
 - 📌 **Public Repos:** ![GitHub public repos](https://img.shields.io/github/repo-count/codeveno?style=flat-square)  
 - 🌟 **Stars Received:** ![GitHub stars](https://img.shields.io/github/stars/codeveno?style=flat-square)  
 - 🍴 **Forks:** ![GitHub forks](https://img.shields.io/github/forks/codeveno?style=flat-square)  
 
 ---
 
-### 🛠️ Technologies & Tools:
+## 🛠️ Technologies & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -60,4 +60,4 @@ I am **Codeveno**, a passionate cybersecurity enthusiast specializing in **crypt
 
 ---
 
-**🔐 Security is not just a profession, it’s a mindset! Stay safe! 🔥**  
+### **🔐 Security is not just a profession, it’s a mindset! Stay safe! 🔥**
