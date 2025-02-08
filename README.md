@@ -8,8 +8,8 @@ I am **Codeveno**, I am an aspiring  **cryptographer**.
 - 👯 I am looking to collaborate on **system security projects**.  
 - 🤔 I am looking for help with **reverse engineering and advanced cryptography jagoons**.  
 - 💬 Ask me about **computer security, web development, Python, mobile app development, Java, and Linux**.  
-- 📫 How to reach me: **samsono.odwori@gmail.com**  
-- 😄 Pronouns: **He/Him**  
+- 📫 How to reach me: **Raise the issue here on github**  
+-  Pronouns: **He/Him**  
 - ⚡ Fun fact: I once tried to brute-force my fridge’s lock… turns out it just needed a gentle pull. 🧑‍💻  
 
 ---
