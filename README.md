@@ -1,10 +1,10 @@
 ## Hi there, welcome here! 👋
 
-I am **Codeveno**, a passionate cybersecurity enthusiast specializing in **cryptography and system security**.  
+I am **Codeveno**, I am an aspiring  **cryptographer**.  
 
 ### 🔥 About Me:
 - 🔭 I am currently working on **cryptography and system security**.  
-- 🌱 I am currently learning **red teaming**.  
+- 🌱 I am currently learning **red teaming, cryptography, system security**.  
 - 👯 I am looking to collaborate on **system security projects**.  
 - 🤔 I am looking for help with **reverse engineering and advanced cryptography jagoons**.  
 - 💬 Ask me about **computer security, web development, Python, mobile app development, Java, and Linux**.  
@@ -76,7 +76,7 @@ I am **Codeveno**, a passionate cybersecurity enthusiast specializing in **crypt
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
-### 🔹 **Operating system** 
+🔹 Operating system 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
