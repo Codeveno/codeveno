@@ -22,7 +22,7 @@ I am **Codeveno**, I am an aspiring  **cryptographer**.
 ### 🔥 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codeveno&theme=radical&hide_border=true" height="165">
+    <img src="https://streak-stats.demolab.com?user=codeveno&theme=radical&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=codeveno&show_icons=true&theme=radical&rank_icon=github" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeveno&layout=compact&theme=radical" height="165">
 </p>
