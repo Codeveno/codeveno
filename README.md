@@ -1,43 +1,52 @@
-## Hello there, welcome here! 💪
+## Hello there, welcome here! 💪  
 
 I am **Codeveno**, an aspiring **cryptographer**.  
 
-### 🦾 About Me:
-- 🛠️ I am currently working on **cryptography and system security**.  
-- 🧠 I am currently learning **red teaming, cryptography, and system security**.  
-- 🤝 I am looking to collaborate on **system security projects**.  
-- 🔍 I am looking for help with **reverse engineering and advanced cryptography techniques**.  
+---
+
+## 🦾 About Me  
+- 🛠️ Currently working on **cryptography and system security**.  
+- 🧠 Learning **red teaming, cryptography, and system security**.  
+- 🤝 Open to collaborating on **system security projects**.  
+- 🔍 Looking for help with **reverse engineering and advanced cryptography techniques**.  
 - 🗣️ Ask me about **computer security, web development, Python, mobile app development, Java, and Linux**.  
-- 📨 How to reach me: **Raise an issue here on GitHub**.  
+- 📨 Reach me by **raising an issue here on GitHub**.  
 - Pronouns: **He/Him**  
 - ⚡ Fun fact: I once tried to brute-force my fridge’s lock… turns out it just needed a gentle pull. 💥  
 
 ---
 
-### 🏋️ GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=codeveno&theme=onedark&column=7)  
+## 🏆 GitHub Achievements  
 
-
----
-
-### 🏋️ GitHub Trophies:
-  ![GitHub Grade](https://github-readme-stats.vercel.app/api?username=codeveno&show_icons=true&theme=radical&custom_title=Performance+Grade)
-
-### 🚀 GitHub Stats:
-
+### 🏋️ GitHub Trophies  
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=codeveno&theme=radical&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeveno&layout=compact&theme=radical" height="150">
+  <img src="https://github-profile-trophy.vercel.app/?username=codeveno&theme=onedark&column=7">
+</p>  
+
+### 🎖️ Performance Grade  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeveno&show_icons=true&theme=radical&custom_title=Performance+Grade">
 </p>
 
 ---
 
-## 👁️‍🗨️ Profile Visitors:
-![Visitor Count](https://komarev.com/ghpvc/?username=codeveno&color=blue)
+## 📊 GitHub Stats  
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=codeveno&theme=radical&hide_border=true" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeveno&layout=compact&theme=radical" height="150">
+</p>  
 
 ---
 
-## 🛠️ Technologies & Tools:
+## 👁️‍🗨️ Profile Visitors  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codeveno&color=blue">
+</p>
+
+---
+
+## 🛠️ Technologies & Tools  
 
 ### 🪓 **Cybersecurity Tools**  
 <p align="center">
@@ -87,4 +96,4 @@ I am **Codeveno**, an aspiring **cryptographer**.
 
 ---
 
-### **🛡️ Security is not just a profession, it’s a mindset! Stay strong! 💪**
+### 🛡️ **Security is not just a profession, it’s a mindset! Stay strong! 💪**  
