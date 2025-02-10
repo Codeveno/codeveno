@@ -25,6 +25,8 @@ I am **Codeveno**, an aspiring **cryptographer**.
     <img src="https://streak-stats.demolab.com?user=codeveno&theme=radical&hide_border=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=codeveno&show_icons=true&theme=radical&rank_icon=github" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeveno&layout=compact&theme=radical" height="150">
+![GitHub Grade](https://github-readme-stats.vercel.app/api?username=codeveno&show_icons=true&theme=radical&custom_title=Performance+Grade)
+
 </p>
 
 ---
