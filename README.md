@@ -1,16 +1,16 @@
 ## Hi there, welcome here! 👋
 
-I am **Codeveno**, I am an aspiring  **cryptographer**.  
+I am **Codeveno**, an aspiring **cryptographer**.  
 
 ### 🔥 About Me:
 - 🔭 I am currently working on **cryptography and system security**.  
-- 🌱 I am currently learning **red teaming, cryptography, system security**.  
+- 🌱 I am currently learning **red teaming, cryptography, and system security**.  
 - 👯 I am looking to collaborate on **system security projects**.  
-- 🤔 I am looking for help with **reverse engineering and advanced cryptography jagoons**.  
+- 🤔 I am looking for help with **reverse engineering and advanced cryptography techniques**.  
 - 💬 Ask me about **computer security, web development, Python, mobile app development, Java, and Linux**.  
-- 📫 How to reach me: **Raise the issue here on github**  
--  Pronouns: **He/Him**  
-- ⚡ Fun fact: I once tried to brute-force my fridge’s lock… turns out it just needed a gentle pull. 🧑‍💻  
+- 📫 How to reach me: **Raise an issue here on GitHub**.  
+- Pronouns: **He/Him**  
+- ⚡ Fun fact: I once tried to brute-force my fridge’s lock… turns out it just needed a gentle pull. �‍💻  
 
 ---
 
@@ -19,7 +19,7 @@ I am **Codeveno**, I am an aspiring  **cryptographer**.
 
 ---
 
-### 🔥 
+### 🔥 GitHub Stats:
 
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=codeveno&theme=radical&hide_border=true" height="150">
@@ -44,7 +44,6 @@ I am **Codeveno**, I am an aspiring  **cryptographer**.
   <img src="https://img.shields.io/badge/Nmap-039BE5?style=for-the-badge&logo=nmap&logoColor=white">
   <img src="https://img.shields.io/badge/Bettercap-ED1C24?style=for-the-badge&logo=linux&logoColor=white">
 </p>
-
 
 ### 🔹 **Cryptography Tools**  
 <p align="center">
@@ -76,12 +75,12 @@ I am **Codeveno**, I am an aspiring  **cryptographer**.
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
-🔹 Operating system 
+
+### 🔹 **Operating Systems**  
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
-
 
 ---
 
