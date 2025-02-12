@@ -34,9 +34,8 @@ I am **Codeveno**, an aspiring **cryptographer**.
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeveno&layout=compact&theme=radical" height="150">
-    <img src="https://streak-stats.demolab.com?user=codeveno&theme=radical&hide_border=true" height="150">
-</p>  
-
+   <img src="https://streak-stats.demolab.com/?user=codeveno&theme=radical&hide_border=true" height="150">
+</p>
 ---
 
 ## 👁️‍🗨️ Profile Visitors  
