@@ -1,4 +1,4 @@
-## 👋 Hello there, welcome! 💪  
+## Hello there, welcome! 💪  
 
 I am **Codeveno**, an aspiring **cryptographer**.  
 
@@ -22,7 +22,7 @@ I am **Codeveno**, an aspiring **cryptographer**.
 
 
 ## 🛠️ Skills  
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,bash,linux,windows,mysql,postgres,mongodb,redis,sqlite,github,git,tensorflow,pytorch,opencv,vscode,neovim,metasploit,wireshark,burpsuite,nmap,bettercap,gnupg,openssl,hashcat,veracrypt,archlinux,debian,ubuntu,nginx,apache,selenium,gradle&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,bash,linux,windows,mysql,postgres,mongodb,redis,sqlite,github,git,tensorflow,pytorch,opencv,vscode,neovim,metasploit,wireshark,burpsuite,nmap,bettercap,gnupg,openssl,hashcat,veracrypt,archlinux,debian,ubuntu,nginx,apache,selenium,gradle&theme=dark&perline=30)](https://skillicons.dev)
 
 ---
 
