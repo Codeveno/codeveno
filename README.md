@@ -22,8 +22,7 @@ I am **Codeveno**, an aspiring **cryptographer**.
 
 
 ## 🛠️ Skills  
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,bash,linux,windows,mysql,postgres,mongodb,sqlite,github,git,tensorflow,pytorch,opencv,vscode,metasploit,wireshark,burpsuite,nmap,bettercap,gnupg,openssl,hashcat,veracrypt,archlinux,debian,nt,ubuntu,nginx,apache,selenium,gradle&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,bash,linux,windows,mysql,postgres,mongodb,redis,sqlite,github,git,tensorflow,pytorch,opencv,vscode,neovim,metasploit,wireshark,burpsuite,nmap,bettercap,gnupg,openssl,hashcat,veracrypt,archlinux,debian,ubuntu,nginx,apache,selenium,gradle&theme=dark&perline=10)](https://skillicons.dev)
 
 ---
 
