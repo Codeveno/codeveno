@@ -1,18 +1,8 @@
-## Hello there, welcome! 💪  
-
+## Hello there,💪  
+ 
 I am **Codeveno**, an aspiring **cryptographer**.  
 
-## 🏆 GitHub Achievements  
 
-### 🏋️ GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeveno&theme=onedark&column=7">
-</p>  
-
-### 🔥 Streak Stats  
-<p align="center">
-   <img src="https://streak-stats.demolab.com/?user=codeveno&theme=radical&hide_border=true" height="150">
-</p>
 
 ### 📊 Performance & Most Used Languages  
 <p align="center">
@@ -21,8 +11,4 @@ I am **Codeveno**, an aspiring **cryptographer**.
 </p>
 
 
-## 🛠️ Skills  
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,bash,linux,windows,mysql,postgres,mongodb,redis,sqlite,github,git,tensorflow,pytorch,opencv,vscode,neovim,metasploit,wireshark,burpsuite,nmap,bettercap,gnupg,openssl,hashcat,veracrypt,archlinux,debian,ubuntu,nginx,apache,selenium,gradle&theme=dark&perline=30)](https://skillicons.dev)
-
----
 
