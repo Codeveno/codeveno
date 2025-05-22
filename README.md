@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Codeveno
 
-## 🔐 About Me
-- 🔭 Currently working on: Software system development  
-- 🛡️ Core interests: Cryptography, System Security, Reverse Engineering, Backend Architecture  
-- ⚡ Fun fact: I would like to connect with LMI
+##About Me
+- Currently working on: Software system development  
+- Core interests: Cryptography, System Security, Reverse Engineering, Backend Architecture  
+- I would like to connect with LMI
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codeveno&theme=radical&border_radius=8" height="130" />
