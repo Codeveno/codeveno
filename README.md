@@ -4,7 +4,7 @@ About Me
 
     -Currently working on: Software system development.
 
-    -Core interests: Cryptography, System Security, Reverse Engineering, Backend Architecture.
+    -Core interests: Cryptography, System Security, Reverse Engineering, Backend Architecture
 
     -I would like to connect with LMI.
 
